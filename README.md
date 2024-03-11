@@ -1,3 +1,3 @@
-# Slider-Crank-Simulation-in-MATLAB
+# Slider Crank Simulation in MATLAB
 
 This repository implements a slider crank simulation in MATLAB, providing a comprehensive analysis of the dynamics of a slider crank mechanism. Users can explore the system's behavior in terms of force, acceleration, velocity, and position by inputting relevant parameters. Engineers and researchers seeking to understand the intricate interactions within slider crank mechanisms, which are fundamental components in various mechanical systems including engines, pumps, and robotics, will find this tool invaluable. This simulation is created under the guidance of Prof. XYZ at NITK. With intuitive usage instructions and clear visualizations of the simulation results, this project offers a user-friendly platform for studying and analyzing the performance characteristics of slider crank systems. This project is licensed under the MIT License - see the LICENSE file for details.
